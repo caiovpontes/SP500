@@ -32,4 +32,4 @@ streamlit run app.py
 
 ## Acesse o app
 
-Link do app no Render: (adicionar após o deploy)
+Link do app no Render: https://sp500-w85t.onrender.com
